@@ -20,4 +20,3 @@
    - People can meet for joint tours
    - User can add content or leave guestbook entries
 5. Live navigation feature (currently only the directions are shown and are not updated on the way)
-# kindo
